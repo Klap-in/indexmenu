@@ -2,14 +2,16 @@
 
 /**
  * @license    GPL 2 (http://www.gnu.org/licenses/gpl.html)
- * 
+ *
  * @author Jens Hyllegaard <jens.hyllegaard@gmail.com>
+ * @author Test <klapinklapin@gmail.com>
  */
 $lang['menu']                  = 'Indexmenu værktøjer';
 $lang['fetch']                 = 'Vis';
 $lang['install']               = 'Installer';
 $lang['delete']                = 'Slet';
 $lang['check']                 = 'Marker';
+$lang['no_repos']              = 'Geen teem repo configured';
 $lang['disabled']              = 'Deaktiveret';
 $lang['conn_err']              = 'Forbindelsesfejl';
 $lang['dir_err']               = 'Kunne ikke oprette midlertidig mappe til at indeholde tema';
@@ -22,6 +24,7 @@ $lang['delete_no']             = 'Der opstod en fejl ved sletning af tema';
 $lang['upload']                = 'Del';
 $lang['checkupdates']          = 'Udvidelsesopdateringer';
 $lang['noupdates']             = 'Indexmenu skal ikke opdateres. Du har allerede den nyeste udgave:';
+$lang['infos']                 = 'heel lang verhaal..............';
 $lang['js']['indexmenuwizard'] = 'Indexmenu guide';
 $lang['js']['index']           = 'Index';
 $lang['js']['options']         = 'Indstillinger';
